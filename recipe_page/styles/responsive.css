@@ -1,0 +1,16 @@
+@media screen and (max-width: 375px) {
+    .recipe_general {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+    
+    .recipe_image {
+        padding: 0;
+    }
+
+    .recipe_image img {
+        border-radius: 0px;
+    }
+
+}
