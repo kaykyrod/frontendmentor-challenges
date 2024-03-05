@@ -1,0 +1,24 @@
+/* Tablet */
+@media screen and (max-width: 768px) {
+    .container {
+        margin: 1rem auto;
+        width: 70%;
+    }
+}
+
+/*Mobile*/
+@media screen and (max-width: 375px) {
+    .container {
+        width: 90%;
+        margin: 5rem auto;
+    }
+
+    .content h1 {
+        font-size: 1.5rem;
+    }
+
+    .content h2 {
+        font-size: 1rem;
+    }
+
+}
